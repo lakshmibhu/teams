@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/teams/static/css/main.5099b22a.chunk.css",
+    "main.js": "/teams/static/js/main.4fffeb46.chunk.js",
+    "main.js.map": "/teams/static/js/main.4fffeb46.chunk.js.map",
+    "runtime-main.js": "/teams/static/js/runtime-main.16aa543d.js",
+    "runtime-main.js.map": "/teams/static/js/runtime-main.16aa543d.js.map",
+    "static/css/2.cbedb215.chunk.css": "/teams/static/css/2.cbedb215.chunk.css",
+    "static/js/2.74f22f2e.chunk.js": "/teams/static/js/2.74f22f2e.chunk.js",
+    "static/js/2.74f22f2e.chunk.js.map": "/teams/static/js/2.74f22f2e.chunk.js.map",
+    "index.html": "/teams/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "/teams/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.5099b22a.chunk.css.map": "/teams/static/css/main.5099b22a.chunk.css.map",
+    "static/js/2.74f22f2e.chunk.js.LICENSE.txt": "/teams/static/js/2.74f22f2e.chunk.js.LICENSE.txt",
+    "static/media/Grocery.8ca07d8d.jpg": "/teams/static/media/Grocery.8ca07d8d.jpg",
+    "static/media/Vegetables.9be2d744.jpg": "/teams/static/media/Vegetables.9be2d744.jpg",
+    "static/media/beds.3babaa12.jpg": "/teams/static/media/beds.3babaa12.jpg",
+    "static/media/books.dc82cc8e.jpg": "/teams/static/media/books.dc82cc8e.jpg",
+    "static/media/bottles.8a629a0e.jpg": "/teams/static/media/bottles.8a629a0e.jpg",
+    "static/media/fan.7b185655.jpeg": "/teams/static/media/fan.7b185655.jpeg",
+    "static/media/iphone6.9bd08ca8.jpeg": "/teams/static/media/iphone6.9bd08ca8.jpeg",
+    "static/media/laptops.76d19b86.jpg": "/teams/static/media/laptops.76d19b86.jpg",
+    "static/media/mobile.cc195705.jpg": "/teams/static/media/mobile.cc195705.jpg",
+    "static/media/shampoo.b6c1d35b.jpg": "/teams/static/media/shampoo.b6c1d35b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16aa543d.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.74f22f2e.chunk.js",
+    "static/css/main.5099b22a.chunk.css",
+    "static/js/main.4fffeb46.chunk.js"
+  ]
+}
